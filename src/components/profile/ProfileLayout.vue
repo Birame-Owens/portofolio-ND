@@ -192,12 +192,11 @@ defineProps({
   position: absolute;
   width: 380px;
   height: 380px;
-  background: var(--accent-soft);
-  filter: blur(60px);
-  opacity: 0.55;
+  background: radial-gradient(circle, var(--accent-soft) 0%, transparent 70%);
   top: -140px;
   right: -100px;
   animation: blobMove 18s ease-in-out infinite;
+  will-change: transform;
   z-index: -1;
 }
 

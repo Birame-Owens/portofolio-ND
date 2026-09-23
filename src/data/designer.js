@@ -10,7 +10,7 @@ export const designer = {
   website: 'nd-world.site',
   websiteUrl: 'https://nd-world.site/',
   availability: 'Dès que possible',
-  photo: '/images/ndeya-pp.jpg',
+  photo: '/images/nd-pp.jpg',
 
   profile:
     "Designer graphique, vidéo et création par IA, certifiée Référente Digitale (Telly Tech). Maîtrise de la suite Adobe (Photoshop, Illustrator), de Canva, Figma et CapCut pour la production de supports graphiques, de contenus vidéo et d'animations. Expérience concrète en conception d'identité visuelle, charte graphique, motion design et création de contenus pour les réseaux sociaux. À l'aise avec les outils d'IA générative (ChatGPT, Claude, Gemini) pour la production d'images, d'illustrations et de contenus assistés. Créative, rigoureuse, autonome et passionnée par les technologies émergentes.",

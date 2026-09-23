@@ -20,6 +20,7 @@ const phone = '+221 77 176 49 90'
           <RouterLink to="/">Accueil</RouterLink>
           <RouterLink to="/designer">Design &amp; IA</RouterLink>
           <RouterLink to="/commerciale">Commerciale</RouterLink>
+          <RouterLink to="/realisations">Réalisations</RouterLink>
           <RouterLink to="/parfum">Rokia Jawhar</RouterLink>
         </div>
         <div class="footer-col">

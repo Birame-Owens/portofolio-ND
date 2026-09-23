@@ -21,6 +21,11 @@ const routes = [
     name: 'parfum',
     component: () => import('../views/ParfumView.vue'),
   },
+  {
+    path: '/realisations',
+    name: 'realisations',
+    component: () => import('../views/RealisationsView.vue'),
+  },
 ]
 
 const router = createRouter({

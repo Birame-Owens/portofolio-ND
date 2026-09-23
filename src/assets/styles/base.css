@@ -330,9 +330,9 @@ button {
 }
 
 @keyframes blobMove {
-  0%, 100% { border-radius: 42% 58% 65% 35% / 45% 40% 60% 55%; transform: rotate(0deg) scale(1); }
-  33% { border-radius: 60% 40% 30% 70% / 55% 65% 35% 45%; transform: rotate(8deg) scale(1.04); }
-  66% { border-radius: 35% 65% 55% 45% / 40% 55% 45% 60%; transform: rotate(-6deg) scale(0.98); }
+  0%, 100% { transform: translate3d(0, 0, 0) scale(1); }
+  33% { transform: translate3d(2%, -3%, 0) scale(1.06); }
+  66% { transform: translate3d(-3%, 2%, 0) scale(0.96); }
 }
 
 @keyframes spinSlow {

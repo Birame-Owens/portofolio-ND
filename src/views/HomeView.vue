@@ -159,16 +159,15 @@ const stats = [
 
 .hero-blob {
   position: absolute;
-  filter: blur(50px);
-  opacity: 0.5;
   animation: blobMove 16s ease-in-out infinite;
+  will-change: transform;
   z-index: -1;
 }
 
 .blob-a {
   width: 420px;
   height: 420px;
-  background: var(--accent-soft);
+  background: radial-gradient(circle, var(--accent-soft) 0%, transparent 70%);
   top: -120px;
   right: -80px;
 }
@@ -176,8 +175,8 @@ const stats = [
 .blob-b {
   width: 300px;
   height: 300px;
-  background: var(--accent-2);
-  opacity: 0.25;
+  background: radial-gradient(circle, var(--accent-2) 0%, transparent 70%);
+  opacity: 0.4;
   bottom: -80px;
   left: -60px;
   animation-delay: -6s;

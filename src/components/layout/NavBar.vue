@@ -11,6 +11,7 @@ const links = [
   { to: '/', label: 'Accueil' },
   { to: '/designer', label: 'Design & IA' },
   { to: '/commerciale', label: 'Commerciale' },
+  { to: '/realisations', label: 'Réalisations' },
   { to: '/parfum', label: 'Rokia Jawhar' },
 ]
 

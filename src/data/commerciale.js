@@ -8,7 +8,7 @@ export const commerciale = {
   phone: '+221 77 176 49 90',
   email: 'nd7915@gmail.com',
   availability: 'Immédiate',
-  photo: '/images/ndeya-pp.jpg',
+  photo: '/images/nd-pp.jpg',
 
   profile:
     "Référente digitale en formation chez Telly Tech, avec une expérience concrète en développement commercial et en communication digitale. A contribué activement au recrutement de plus de 10 étudiants pour l'école grâce à des campagnes de prospection et des publications sur les réseaux sociaux, démontrant un sens commercial naturel et une capacité à convaincre et à attirer des prospects. Maîtrise des outils bureautiques (Word, Excel, PowerPoint), des outils collaboratifs (Notion, Trello) et des plateformes digitales. Curieuse, dynamique, proactive et orientée résultats.",
